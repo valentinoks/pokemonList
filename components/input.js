@@ -16,7 +16,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 export default Input = ({ navigation }) => {
     return(
          <View>
-            <Text>What da dog doin</Text>
+            <Text>Input text here</Text>
          </View>
     )
 }
